@@ -1,0 +1,35 @@
+{
+  "name": "mobxnext",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@zeit/next-sass": "^1.0.1",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "js-cookie": "^2.2.1",
+    "mobx": "^5.15.4",
+    "mobx-react": "^6.1.8",
+    "moment": "^2.29.1",
+    "next": "10.0.0",
+    "next-mobx-wrapper": "^0.4.0",
+    "node-fetch": "^2.6.1",
+    "node-sass": "^4.14.1",
+    "nprogress": "^0.2.0",
+    "react": "17.0.1",
+    "react-currency-format": "^1.0.0",
+    "react-dom": "17.0.1"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.12.1",
+    "@babel/plugin-proposal-decorators": "^7.12.1",
+    "@types/node": "^14.14.5",
+    "@types/react": "^16.9.54",
+    "typescript": "^4.0.5"
+  }
+}
